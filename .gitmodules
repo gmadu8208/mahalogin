@@ -1,0 +1,3 @@
+[submodule "mahalogin"]
+	path = mahalogin
+	url = https://github.com/gmadu8208/mahalogin.git
